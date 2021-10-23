@@ -1,0 +1,1 @@
+Inst and remix were made by me but vocals without inst were made in this video -> https://www.youtube.com/watch?v=RepPOPWW2dI

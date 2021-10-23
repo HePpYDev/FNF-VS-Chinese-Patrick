@@ -1,0 +1,30 @@
+{
+	"storyName": "Taiwan is not a country plus 15 social credit lmao",
+	"hideFreeplay": false,
+	"weekBackground": "joemama",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Social Credit",
+			"patick",
+			[
+				255,
+				173,
+				135
+			]
+		]
+	],
+	"weekName": "Hahaha you have win or lose lmaooooo"
+}

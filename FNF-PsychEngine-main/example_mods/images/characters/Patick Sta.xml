@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Patick Sta.png"><SubTexture name="Patick Sta idle0000" x="0" y="0" width="1084" height="779" frameX="0" frameY="0" frameWidth="1084" frameHeight="779" />
+<SubTexture name="Patick Sta idle0001" x="1084" y="0" width="1084" height="779" frameX="0" frameY="0" frameWidth="1084" frameHeight="779" />
+<SubTexture name="Patick Sta idle0002" x="2168" y="0" width="1084" height="779" frameX="0" frameY="0" frameWidth="1084" frameHeight="779" />
+<SubTexture name="Patick Sta idle0003" x="3252" y="0" width="1084" height="779" frameX="0" frameY="0" frameWidth="1084" frameHeight="779" />
+<SubTexture name="Patick Sta idle0004" x="0" y="779" width="1084" height="779" frameX="0" frameY="0" frameWidth="1084" frameHeight="779" />
+<SubTexture name="Patick Sta idle0005" x="1084" y="779" width="1084" height="779" frameX="0" frameY="0" frameWidth="1084" frameHeight="779" />
+<SubTexture name="Patick Sta idle0006" x="2168" y="779" width="1084" height="779" frameX="0" frameY="0" frameWidth="1084" frameHeight="779" />
+<SubTexture name="Patick Sta idle0007" x="3252" y="779" width="1084" height="779" frameX="0" frameY="0" frameWidth="1084" frameHeight="779" />
+<SubTexture name="Patick Sta idle0008" x="0" y="1558" width="1084" height="779" frameX="0" frameY="0" frameWidth="1084" frameHeight="779" />
+<SubTexture name="Patick Sta idle0009" x="1084" y="1558" width="1084" height="779" frameX="0" frameY="0" frameWidth="1084" frameHeight="779" />
+<SubTexture name="Patick Sta left0000" x="2168" y="1558" width="1084" height="779" frameX="0" frameY="0" frameWidth="1084" frameHeight="779" />
+<SubTexture name="Patick Sta left0001" x="3252" y="1558" width="1084" height="779" frameX="0" frameY="0" frameWidth="1084" frameHeight="779" />
+<SubTexture name="Patick Sta left0002" x="0" y="2337" width="1084" height="779" frameX="0" frameY="0" frameWidth="1084" frameHeight="779" />
+<SubTexture name="Patick Sta left0003" x="1084" y="2337" width="1084" height="779" frameX="0" frameY="0" frameWidth="1084" frameHeight="779" />
+<SubTexture name="Patick Sta right0000" x="2168" y="2337" width="1084" height="779" frameX="0" frameY="0" frameWidth="1084" frameHeight="779" />
+<SubTexture name="Patick Sta right0001" x="3252" y="2337" width="1084" height="779" frameX="0" frameY="0" frameWidth="1084" frameHeight="779" />
+<SubTexture name="Patick Sta right0002" x="0" y="3116" width="1084" height="779" frameX="0" frameY="0" frameWidth="1084" frameHeight="779" />
+<SubTexture name="Patick Sta right0003" x="1084" y="3116" width="1084" height="779" frameX="0" frameY="0" frameWidth="1084" frameHeight="779" />
+<SubTexture name="Patick Sta down0000" x="2168" y="3116" width="1084" height="779" frameX="0" frameY="0" frameWidth="1084" frameHeight="779" />
+<SubTexture name="Patick Sta down0001" x="3252" y="3116" width="1084" height="779" frameX="0" frameY="0" frameWidth="1084" frameHeight="779" />
+<SubTexture name="Patick Sta down0002" x="0" y="3895" width="1084" height="779" frameX="0" frameY="0" frameWidth="1084" frameHeight="779" />
+<SubTexture name="Patick Sta down0003" x="1084" y="3895" width="1084" height="779" frameX="0" frameY="0" frameWidth="1084" frameHeight="779" />
+<SubTexture name="Patick Sta up0000" x="2168" y="3895" width="1084" height="779" frameX="0" frameY="0" frameWidth="1084" frameHeight="779" />
+<SubTexture name="Patick Sta up0001" x="3252" y="3895" width="1084" height="779" frameX="0" frameY="0" frameWidth="1084" frameHeight="779" />
+<SubTexture name="Patick Sta up0002" x="0" y="4674" width="1084" height="779" frameX="0" frameY="0" frameWidth="1084" frameHeight="779" />
+<SubTexture name="Patick Sta up0003" x="1084" y="4674" width="1084" height="779" frameX="0" frameY="0" frameWidth="1084" frameHeight="779" />
+</TextureAtlas>
