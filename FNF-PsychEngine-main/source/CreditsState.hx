@@ -26,6 +26,7 @@ class CreditsState extends MusicBeatState
 	private static var creditsStuff:Array<Dynamic> = [ //Name - Icon name - Description - Link - BG Color
 		['VS Chinese Patrick'],
 		['HePpY',				'heppy',			'Everything for this mod lmao',						'https://www.youtube.com/channel/UCsHNO2cj62lpMX7auymhdAg',		0xFFFFFF00],
+		['Bastiano',			'whydiditoldthatondisc',		'He posts shitpost on MML but Spanish and i told him something relationated with likes',				'https://twitter.com/alivebastiano?lang=es',			0xFF8FFF87],
 		[''],
 		['Psych Engine Team'],
 		['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	0xFFFFDD33],
